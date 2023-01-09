@@ -1,4 +1,4 @@
-# EDA---Hotel-Booking-Analysis
+# EDA - Hotel Booking Analysis
 
 Hotel Industry is very volatile industry and bookings depends on diffrent factors.
 
